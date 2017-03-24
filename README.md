@@ -1,4 +1,5 @@
 # gsa-hsa.github.io
-GSA-HSA website
 
-This will be the new website of the Greek Space Agency
+GSA-HSA : Greek Space Agency / Hellenic Space Agency
+
+This is the home of the Greek Space Agency's website
