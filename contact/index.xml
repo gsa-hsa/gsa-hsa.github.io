@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contacts on Greek | Hellenic Space Agency</title>
+    <link>http://gsa-hsa.github.io/contact/</link>
+    <description>Recent content in Contacts on Greek | Hellenic Space Agency</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-EN</language>
+    <managingEditor>web@gsa-hsa.com (GSA-HSA)</managingEditor>
+    <webMaster>web@gsa-hsa.com (GSA-HSA)</webMaster>
+    <copyright>(c) 2017 GSA-HSA. All rights reserved.</copyright>
+    <lastBuildDate>Tue, 21 Mar 2017 16:11:59 +0000</lastBuildDate>
+    <atom:link href="http://gsa-hsa.github.io/contact/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Contact: GSA-HSA</title>
+      <link>http://gsa-hsa.github.io/contact/</link>
+      <pubDate>Tue, 21 Mar 2017 16:11:59 +0000</pubDate>
+      <author>web@gsa-hsa.com (GSA-HSA)</author>
+      <guid>http://gsa-hsa.github.io/contact/</guid>
+      <description>&lt;p&gt;Greek Space Agency&lt;br /&gt;
+Information Technologies Institute&lt;br /&gt;
+Centre of Research &amp;amp; Technology - Hellas&lt;br /&gt;
+6th km Harilaou - Thermi&lt;br /&gt;
+P.O. Box 60361&lt;br /&gt;
+Thessaloniki 57001,&lt;br /&gt;
+Greece&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://maps.googleapis.com/maps/api/staticmap?center=40.5667611,22.9980147&amp;amp;zoom=13&amp;amp;size=600x400&amp;amp;maptype=roadmap&amp;amp;markers=color:red%7Clabel:S%7C40.5667611,22.9980147&#34; alt=&#34;alt text&#34; title=&#34;Map&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

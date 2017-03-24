@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Activities on Greek | Hellenic Space Agency</title>
+    <link>http://gsa-hsa.github.io/activities/</link>
+    <description>Recent content in Activities on Greek | Hellenic Space Agency</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-EN</language>
+    <managingEditor>web@gsa-hsa.com (GSA-HSA)</managingEditor>
+    <webMaster>web@gsa-hsa.com (GSA-HSA)</webMaster>
+    <copyright>(c) 2017 GSA-HSA. All rights reserved.</copyright>
+    <lastBuildDate>Tue, 21 Mar 2017 16:11:59 +0000</lastBuildDate>
+    <atom:link href="http://gsa-hsa.github.io/activities/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Activities</title>
+      <link>http://gsa-hsa.github.io/activities/</link>
+      <pubDate>Tue, 21 Mar 2017 16:11:59 +0000</pubDate>
+      <author>web@gsa-hsa.com (GSA-HSA)</author>
+      <guid>http://gsa-hsa.github.io/activities/</guid>
+      <description>
+
+&lt;h3 id=&#34;projects:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Projects&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://gsa-hsa.github.io/activities/projects/&#34;&gt;Click here&lt;/a&gt; to see previous and ongoing projects&lt;/p&gt;
+
+&lt;h3 id=&#34;conferences:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Conferences&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://gsa-hsa.github.io/activities/icst/&#34;&gt;Click here&lt;/a&gt; to see past and upcoming conferences&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>International Conference on Space Technology</title>
+      <link>http://gsa-hsa.github.io/activities/icst/</link>
+      <pubDate>Tue, 21 Mar 2017 16:11:59 +0000</pubDate>
+      <author>web@gsa-hsa.com (GSA-HSA)</author>
+      <guid>http://gsa-hsa.github.io/activities/icst/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;images/icst_logo.png&#34; alt=&#34;ICST-logo&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The proliferation of micro-satellites has made space affordable and accessible to many people. Space technology, therefore, spans a broad area of research and development, from electronic components for satellites to intelligent systems for on-board data analysis. Most of the satellites face the Earth rather than the outer space. From home electricity meter readings to disaster monitoring, surveillance and crop forecast, satellites play a very important role in our daily lives. It has also become increasingly important for signal/image processing researchers and intelligent systems to consider the whole pipeline of data collection, data processing, and conclusions drawing rather than try to solve individual problems in isolation. For example, there is no point in developing intelligent robotic systems to operate on-board a satellite if these systems rely on resources well beyond what one can place on a satellite; and there is little purpose to developing intelligent systems for early fire detection from space if the orbit of the satellite is not designed to allow frequent coverage of the monitored area.&lt;/p&gt;
+
+&lt;p&gt;The ICST is designed to bring together people who work on different aspects of space technology research to facilitate and enhance the interactions along this chain of activity.&lt;/p&gt;
+
+&lt;p&gt;Conference details coming soon!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Projects: GSA-HSA</title>
+      <link>http://gsa-hsa.github.io/activities/projects/</link>
+      <pubDate>Tue, 21 Mar 2017 16:11:59 +0000</pubDate>
+      <author>web@gsa-hsa.com (GSA-HSA)</author>
+      <guid>http://gsa-hsa.github.io/activities/projects/</guid>
+      <description>
+
+&lt;p&gt;GSA supports and facilitates international projects and collaborations with space agencies around the globe while supporting local industries.&lt;/p&gt;
+
+&lt;p&gt;GSA is currently engaged in establishing an international information processing centre, to be operated by a multi-national industry-government body, complete with cutting-edge technology, a highly skilled team of remote sensing researchers and the expertise of leading academic institutions and companies from around the world. The Multi-Sensor Information processing Centre (MSIC) will be designed to satisfy the needs of various end users, including governments and the private sector. Cost-effective, precise, timely satellite data is in high demand by a multitude of markets, anything from urban planning, environmental monitoring, agriculture, oil and gas industry, and infrastructure mapping, to intelligence, emergency response planning, and visual simulation.&lt;/p&gt;
+
+&lt;p&gt;Multiple companies, other space agencies and companies will offer satellite data, tools, and applications that are approved by the MSIC board, and serve only the applications that fall within the mandate of GSA.&lt;/p&gt;
+
+&lt;p&gt;GSA welcomes the scientific communities of Greece and worldwide to actively participate in the development of MSIC. For additional information, please contact &lt;a href=&#34;mailto:msic@gsa-hsa.com&#34; title=&#34;Email MSIC&#34;&gt;msic@gsa-hsa.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;projects-eligible-for-gsa-support&#34;&gt;Projects Eligible for GSA Support&lt;/h2&gt;
+
+&lt;p&gt;Only multi-national studies featuring scientists from different national space agencies, industry, universities and government labs qualify for GSA support. A project is considered multinational if participants from 4 or more countries, including Greece, are engaged. The project must fit under GSA&amp;rsquo;s mandate and illustrate clear benefits for both the project participants and around the globe.&lt;/p&gt;
+
+&lt;h2 id=&#34;call-for-proposals&#34;&gt;Call for Proposals&lt;/h2&gt;
+
+&lt;p&gt;GSA holds an annual call for proposal. Expressions of interest are reviewed by the GSA board, with only the most viable mission/project concepts chosen. GSA assists the selected proponents to receive the required financing, either wholly or partially, depending on project&amp;rsquo;s nature and scope.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
